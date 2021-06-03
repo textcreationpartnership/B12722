@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for reuocation of mariners from forreine seruices.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12722</idno><idno type="EEBO-CITATION">99892772</idno>
+  <idno type="VID">187146</idno>
+  <idno type="EEBO-PROQUEST">2269047873</idno>
+  
+            <idno type="STC">STC 8369</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[50]</idno>
+            <idno type="PROQUEST">ocm99892772</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892772e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187146)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for reuocation of mariners from forreine seruices.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1604. [i.e. 1605]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>At end of text: Thetford the first day of March, in the second yeere of our raigne ... .</note>
+                  <note>Precautions against piracy and to prevent hostilities between Dutch and Spanish ships. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pirates --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187146:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for reuocation of Mariners from forreine Seruices.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas within this short time since the Peace concluded be<g ref="char:EOLhyphen"/>tweene</hi> Vs and the King of <hi>Spaine</hi> and the Archdukes our good Brothers, it hath appeared vnto Vs that many Mariners and Sea<g ref="char:EOLhyphen"/>faring men of this Realme, hauing gotten a custome and habite in the time of the Warre to make profite by Spoile, doe leaue their ordinary and honest vocation and Trading in Merchantly Voyages, whereby they might both reape conuenient maintenance, and be seruiceable to their Countrey, And doe betake themselues to the Seruice of diuers forreine States, vnder the Title of men of Warre, to haue thereby occasion to continue their vnlawfull and vngodly course of liuing by Spoile, vsing the seruice of those Princes but for co<g ref="char:EOLhyphen"/>lour and pretext, but in effect making themselues commonly no better then Pirats to robbe both our owne Subiects their Countreymen, and the Subiects of other Princes our neighbours, going in their honest Trade of Merchandize: By which courses they doe impeach the quiet Traffique of Nations one with other, leaue our Realme vnfurnished of men of their sort, if we should haue cause to vse them, and inure themselues to an impious disposition of liuing by ra<g ref="char:EOLhyphen"/>pine and euill meanes, although by reason of the Vniuersall Peace wherein we are at this pre<g ref="char:EOLhyphen"/>sent with all Christian Princes and States, they may haue a more plentifull employment in an orderly and lawfull Nauigation, then at any time of late yeeres they could haue had: We haue thought it necessarie in time to preuent the spreading of such a corruption amongst our Subiects of that sort and calling, whereby our Nation will bee so much slandered, and our Realme so greatly disaduantaged. Wherefore wee doe will and command all Masters of Ships, Pilots, Mariners, and all other sort of Seafaring men, who now are in the Martiall seruice of any for<g ref="char:EOLhyphen"/>reine States, that they doe presently returne home into their owne Countrey, and leaue all such forreine Seruices, and betake themselues to their Vocation in the lawfull course of Merchan<g ref="char:EOLhyphen"/>dize, and other orderly Nauigation, vpon such paines and punishments as by the Lawes of our Realme may be inflicted vpon them, if after this declaration of our Pleasure, they shall not obey. And we doe also vpon the same paines straightly charge and command all our Subiects of that profession, that none of them shal from henceforth take Letters of Marke or Reprisall, nor serue vnder any that hath such letters of Marke or Reprisall from any forreine Prince or State what<g ref="char:EOLhyphen"/>soeuer, Nor otherwise employ themselues in any warlike Seruices of any forraine State vpon the Sea, without speciall License obtained from our Selfe, or from our high Admirall, as they will answere the contrarie at their perils.</p>
+            <p>And forasmuch as although wee are in Peace with all Christian Princes and States, yet du<g ref="char:EOLhyphen"/>ring the continuance of the Warre betweene the King of Spaine, and the Archdukes on the one side, and the vnited Prouinces of the Low Countreys on the other side, many chances may happen, as some alreadie haue happened, of difficult interpretation to our Officers and Sub<g ref="char:EOLhyphen"/>iects how to behaue themselues in such cases, vnlesse they bee explaned vnto them: Wee haue thought it conuenient to make an open declaration how our said Officers and Subiects shall de<g ref="char:EOLhyphen"/>meane themselues towards the Subiects aswell of the King of <hi>Spaine</hi> and Archdukes, as also of the States vnited in the cases following.</p>
+            <pb facs="tcp:187146:2"/>
+            <p>First our Pleasure is, That within our Ports, Hauens, Rodes, Creekes, or other places of our Dominion, or so neere to any of our sayd Ports or Hauens, as may be reasonably construed to be within that Title, Limit, or Precinct, there shalbe no force, violence, surprise, or offence suffe<g ref="char:EOLhyphen"/>red to be done either from Man of warre to Man of warre, or Man of warre to Merchant, or Merchant to Merchant of either partie, but that all of what Nation soeuer, so long as they shall be within those our Ports and places of our Iurisdiction, or where our Officers may prohibite violence, shall be vnderstood to be vnder our protection to be ordered by course of Iustice, and be at Peace each with other.</p>
+            <p>And whereas some of the men of warre of ech side haue vsed of late, &amp; it is like wil vse in time to come, though not to come within our Ports, because there they know we can restraine violence, yet to houer and hang about the skirts of our Ports, some what to Seaboard, but yet so neare our coasts and the entrie of our Harbours, as in reason is to be construed to be within the extent of the same, &amp; there to await the Merchant of the aduerse part, &amp; do seaze and take them at their going out of our Ports, which is all one in a maner, as if they tooke them within our Port, and wil be no lesse hindrance to the trade of Merchants: Our pleasure therefore and commandement is to all our officers and Subiects by Sea and Land, That they shall prohibit, as much as in them lyeth, all such houering of men of warre of either side, so neere the entrie of any of our Hauens or our Coasts, And that they shall rescue and succour all Merchants, and others that shall fall within the danger of any such as shall awaite our Coasts in so neere places, to the hindrance of trade and traffique outward and homeward from and to our kingdoms. And for the better instructions of our Officers in the execution of these two Articles, We haue caused to be sent to them plats of those Limits, within which we are resolued that these Orders shall be obserued.</p>
+            <p>And where it hath happened, and is like to do often, that a ship of warre of the one side may come into some of our Ports, where there shall be a Merchant of the other side: In such case, for the benefit and preseruation of the lawfull trade of Merchants, Our pleasure is, That all Mer<g ref="char:EOLhyphen"/>chants ships, if they will require it, shall be suffered to depart out of the said Port, two or three Tydes before the man of warre, to the intent that the Merchant may be free from the pursuite of his aduersarie. And if it so happen, that any ship or ships of warre of the one side, do finde any ship or ships of warre of the other side in any our Ports or Roads aforesaid; Like as our Plea<g ref="char:EOLhyphen"/>sure is that during their abode there, all violence be forborne: So doe we likewise command our said Officers and Subiects both on Sea and Land, That the ship of warre which came in first, be suffered to depart a Tyde or two before the other which came in last, And that for so long time they shall stay and detaine any ship of warre; that would offer to pursue another out of any our Ports immediatly. And where we are infourmed, that notwithstanding the seueritie of our Lawes against receiuers of Pirats goods, many of our officers of our Ports, and other inhabi<g ref="char:EOLhyphen"/>tants within and neere vnto them, do receiue dayly goods brought in from Sea by such as are in<g ref="char:EOLhyphen"/>deed Pirats, if they, and the getting of their goods, were wel examined: We do hereby admonish them all, to auoyd the receiuing or buying of any goods from Sea, comming not into the Realme by lawfull course of merchandise, for that they shall finde, we are resolued so to preuent all occasi<g ref="char:EOLhyphen"/>on and encouragement of Pirats to be vsed by any our Subiects, as we will cause our Lawes to be fully executed according to their true meaning, both against the Pirats, and all receiuers and abetters of them, and their goods.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Thetford <date>the first day of March, in the second yeere of our raigne of Great Britaine, &amp;c.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Maiestie. ANNO 1604.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
